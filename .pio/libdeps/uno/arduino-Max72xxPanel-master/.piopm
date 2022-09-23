@@ -1,1 +1,1 @@
-{"type": "library", "name": "arduino-Max72xxPanel-master", "version": "0.0.0+20220916152216", "spec": {"owner": null, "id": null, "name": "arduino-Max72xxPanel-master", "requirements": null, "uri": "file:///Users/prybiec/Downloads/arduino-Max72xxPanel-master.zip"}}
+{"type": "library", "name": "arduino-Max72xxPanel-master", "version": "0.0.0+20220923151747", "spec": {"owner": null, "id": null, "name": "arduino-Max72xxPanel-master", "requirements": null, "uri": "file://./lib/arduino-Max72xxPanel-master.zip"}}
