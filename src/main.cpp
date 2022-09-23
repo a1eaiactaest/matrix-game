@@ -13,7 +13,7 @@ int numberOfVerticalDisplays = 1;
 
 Max72xxPanel matrix = Max72xxPanel(pinCS, numberOfHorizontalDisplays, numberOfVerticalDisplays);
 
-String tape = "Game";
+String tape = "Wulkanizacja opon 24/7";
 int wait = 50;
 int spacer = 1;
 int width = 5 + spacer;
